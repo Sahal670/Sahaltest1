@@ -1,6 +1,6 @@
 
 
 
-car = "Nissan"
-Model = "GTR"
-print(car, Model)
+Bike = "Ducati"
+Model = "HyperMotard"
+print(Bike, Model)
