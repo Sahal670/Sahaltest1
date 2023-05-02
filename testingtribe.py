@@ -1,8 +1,6 @@
 
 
 
-
-
-car = "BMW"
-Model = "X3"
+car = "Nissan"
+Model = "GTR"
 print(car, Model)
