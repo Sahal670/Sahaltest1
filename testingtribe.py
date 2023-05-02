@@ -1,6 +1,6 @@
 
 
 
-Bike = "Ducati"
+Bik = "Ducati"
 Model = "HyperMotard"
-print(Bike, Model)
+print(Bik, Model)
